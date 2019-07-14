@@ -1,11 +1,11 @@
 # Basic
-title: Vno Jekyll
-subtitle: A blog-orientation theme for Jekyll
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
+title: 程程留学
+subtitle: 嗨，程程已恭候多时啦！
+welcome_message: <a href="http://chengchengedu.github.io" target="_blank">（试运行）</a>
+description: 资深文案老师 带你轻松开启留学之旅
 creator: <a href="http://onev.cat">@onevcat</a>
 
-url: "http://vno.onevcat.com"
+url: "http://chengchengedu.github.io"
 
 permalink: /:year/:month/:title/
 
@@ -22,7 +22,7 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
+    - {title: Projects, description: My Projects, url: 'http://chengchengedu.github.io'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
