@@ -3,7 +3,7 @@ title: 程程留学
 subtitle: 嗨，程程已恭候多时啦！
 welcome_message: <a href="http://chengchengedu.github.io" target="_blank">（试运行）</a>
 description: 资深文案老师 带你轻松开启留学之旅
-creator: <a href="http://onev.cat">@onevcat</a>
+creator: <a href="http://github.io">@chengchengedu</a>
 
 url: "http://chengchengedu.github.io"
 
@@ -32,16 +32,16 @@ paginate_path: "page/:num/"
 
 # Comment
 comment:
-    disqus: vno-jekyll
+    disqus: chengchengedu.github.io
     # duoshuo: 
     
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
-    gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    weibo: chengchengedu
+    github: chengchengedu
+    twitter: chengchengedu
+    gplus: chengchengedu
+    mail: chengchengedu
 
 # Google Analytics
 ga:
